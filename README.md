@@ -9,4 +9,6 @@
 ## About me
 
 - 🌱 I’m currently learning Node.js, ReactJS and React Native to become a full-stack developer!
-
+- 🔭 Skills in JS/TS, HTML, CSS, PostgreSQL, AWS and others.
+- 💻 Practicing the clean code with the SOLID principles to create scalable and well structured applications.
+- 🎓 I'm graduating in Computer Networks from the Federal University of Ceará.
