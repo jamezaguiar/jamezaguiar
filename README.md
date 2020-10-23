@@ -12,3 +12,12 @@
 - 🔭 Skills in JS/TS, HTML, CSS, PostgreSQL, AWS and others.
 - 💻 Practicing the clean code with the SOLID principles to create scalable and well structured applications.
 - 🎓 I'm graduating in Computer Networks from the Federal University of Ceará.
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamezaguiar&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jamezaguiar&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
