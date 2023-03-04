@@ -9,8 +9,8 @@
 ## About me
 
 - 🏢 I'm currently working at OSF Digital as a front-end developer.
-- 🔭 Skills in JS/TS, HTML, CSS, ReactJS, Angular, Node.js and others.
-- 🎓 I'm graduating in Computer Networks from the Federal University of Ceará.
+- 🔭 Skills in JS/TS, HTML, CSS, ReactJS and others.
+- 🎓 I'm graduating in analysis and systems development from Estácio de Sá.
 
 <center>
 <table>
