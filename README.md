@@ -10,7 +10,7 @@
 
 - 🏢 I'm currently working at OSF Digital as a front-end developer.
 - 🔭 Skills in JS/TS, HTML, CSS, ReactJS and others.
-- 🎓 I'm graduating in analysis and systems development from Estácio de Sá.
+- 🎓 I'm graduating in analysis and systems development from UNIASSELVI.
 
 <center>
 <table>
